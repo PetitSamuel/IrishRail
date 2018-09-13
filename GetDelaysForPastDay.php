@@ -19,7 +19,3 @@ print_r($result);
 
 ?>
 
-<form action="index.php">
-    <input type="submit" value="Go Back" />
-</form>
-

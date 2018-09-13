@@ -24,7 +24,3 @@ foreach ($dartData as $dart) {
 }
 print '[PROCESS FINISHED] stored or updated ' . count($dartData) . ' trains.' . PHP_EOL;
 ?>
-
-<form action="index.php">
-    <input type="submit" value="Go Back" />
-</form>
